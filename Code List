@@ -4,7 +4,7 @@ Cheat Code:
 
 Format for Hex Editor:
 Game:
-Initial Hex Values:
+Initial Hex Values (Search up in the editor, remember to change the data type to Hex Values):
 New Hex Values:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,8 +18,8 @@ D2000000 00000000
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Game:
-Initial Hex Values:
-New Hex Values:
+Game: Pokemon Ultra Sun/Moon (Only done this on Ultra Moon, will need to try with USun one day)
+Initial Hex Values: 01 01 80 E0 04 20 80 E5
+New Hex Values: 01 01 80 E0 00 F0 20 E3
 
 
