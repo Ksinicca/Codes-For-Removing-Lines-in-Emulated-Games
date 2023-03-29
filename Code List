@@ -18,7 +18,7 @@ D2000000 00000000
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Game: Pokemon Ultra Sun/Moon (Only done this on Ultra Moon, will need to try with USun one day)
+Game: Pokemon Ultra Sun/Moon (Only done this on Ultra Moon, will need to try with Ultra Sun one day)
 Initial Hex Values: 01 01 80 E0 04 20 80 E5
 New Hex Values: 01 01 80 E0 00 F0 20 E3
 
@@ -27,3 +27,6 @@ New Hex Values: 01 01 80 E0 00 F0 20 E3
 Game: Pokemon Moon
 Initial Hex Values: 01 01 80 E0 04 20 80 E5 
 New Hex Values: 01 01 80 E0 00 F0 20 E3
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
